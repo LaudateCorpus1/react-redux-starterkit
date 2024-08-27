@@ -58,7 +58,7 @@
     "sinon": "1.17.4",
     "tap-spec": "4.1.1",
     "tape": "4.6.0",
-    "webpack": "1.13.2",
+    "webpack": "5.94.0",
     "webpack-dev-server": "1.16.2"
   },
   "homepage": "https://github.com/freekwiekmeijer/react-boilerplate/",
